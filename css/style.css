@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.top {
+
+}
+/* ====== HEADER ====== */
+.header {
+  padding: 39px 0;
+  margin: 0 0 160px 0;
+  box-sizing: border-box;
+}
+.menu-list {
+
+}
+.menu-item {
+
+}
+.menu-link {
+
+}
+/* ====== END HEADER ====== */
+
+/* ====== top-info ====== */
+.top-info {
+  margin: 0 0 197px 0;
+}
+.top-content {
+
+}
+.top-content-uptitle {
+  margin: 0 0 10px 0;
+}
+.top-content-title {
+  margin: 0 0 40px 0;
+}
+.top-content-txt {
+  margin: 0 0 50px 0;
+}
+.top-content-btn-wrp {
+
+}
+.top-content-btn {
+
+}
+.top-info-img {
+
+}
+/* ====== END top-info ====== */
+
+/* ====== top-logos ====== */
+.top-logos {
+
+}
+.top-logos-list {
+
+}
+.top-logos-list-item {
+
+}
+/* ====== END top-logos ====== */
